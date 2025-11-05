@@ -1,0 +1,5 @@
+tensorflow==2.15.0
+gradio==4.44.0
+numpy==1.26.4
+pandas==2.2.2
+keras_preprocessing==1.1.2
